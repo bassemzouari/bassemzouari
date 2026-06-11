@@ -1,5 +1,3 @@
-# Bassem Zouari
-
 Computer Science student focused on systems-level engineering, computer architecture, operating systems, and distributed systems.
 
 I care about understanding computing systems from first principles — from CPU execution and memory behavior to concurrency, networking, databases, and large-scale distributed infrastructure.
