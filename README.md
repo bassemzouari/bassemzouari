@@ -27,16 +27,6 @@ I am especially interested in:
 
 ---
 
-## Current Work
-
-- Systems programming in C and C++
-- Computer architecture exercises, learning material and microarchitectural experiments
-- Structured technical notes (Slidev-based)
-- Operating systems internals and concurrency exploration
-- Performance analysis of low-level execution behavior
-
----
-
 ## Long-Term Goal
 
 Develop rigorous engineering judgment across the major layers of computing systems:
